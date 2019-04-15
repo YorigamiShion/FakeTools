@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: Fake Tool
+## Author: faker
+## Notes: No gui
+## Version: 1.0.0
+
+Achievement.lua
+Chat.lua
